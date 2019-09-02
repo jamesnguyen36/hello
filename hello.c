@@ -1,3 +1,10 @@
+/**
+ * Author: James Nguyen
+ * Date: 2019/09/02
+ *
+ * A simple hello world program in C
+ *
+ */
 #include <stdib.h>
 #include <studio.h>
 
