@@ -5,8 +5,8 @@
  * A simple hello world program in C
  *
  */
-#include <stdib.h>
-#include <studio.h>
+#include <stdlib.h>
+#include <stdio.h>
 
 int main(int argc, char **argv) {
 
@@ -14,6 +14,6 @@ int main(int argc, char **argv) {
   printf("Computer Science\n");
   printf("Kok Hwa Khor\n");
   printf("Electrical Engineering\n");
-  
+
   return 0;
 }
